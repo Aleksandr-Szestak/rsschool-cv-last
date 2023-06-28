@@ -28,6 +28,5 @@ function outMax(n){
 ```
 ### Education:
 - BSUIR, Computer systems and networks
-- RS School Stage0
 ### English:
 Level A2
