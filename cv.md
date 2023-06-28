@@ -12,3 +12,22 @@ I like to learn and develop new skills.
 - HTML5, CSS3
 - Git/GitHub
 - VSCode, Figma
+### Code example:
+```JavaScript
+function outMax(n){
+  let maxSt = 0;
+  let a = Math.abs(n);
+  let c;
+  while (a>0){
+    c = a % 10;
+    a = (a-c) / 10;
+    maxSt++
+  }
+  return maxSt;
+}
+```
+### Education:
+- BSUIR, Computer systems and networks
+- RS School Stage0
+### English:
+Level A2
